@@ -1,0 +1,7 @@
+{
+  "name": "ImageGenHook",
+  "author": "GuyTDraker",
+  "version": "1.0.0",
+  "description": "Triggers ComfyUI image generation based on new messages in SillyTavern.",
+  "entry": "extension.js"
+}
